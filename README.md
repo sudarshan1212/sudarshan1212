@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshan1212&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan1212" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sudarshan1212&label=Profile%20views&color=0e75b6&style=flat](https://miro.medium.com/v2/resize:fit:875/0*goaFvkjpQM-0p0h6.)" alt="sudarshan1212" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
