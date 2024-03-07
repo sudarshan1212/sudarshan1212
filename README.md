@@ -73,9 +73,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sudarshan1212.sudarshan1212&left_color=dimgray&right_color=cornflowerblue"  />
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
