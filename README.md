@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js,Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sudarshan1212](https://github.com/sudarshan1212)
+- 👨‍💻 All of my projects are available at  [https://github.com/sudarshan1212](https://github.com/sudarshan1212)
 
 - 📫 How to reach me **sudarshansam12@outlook.com**
 
