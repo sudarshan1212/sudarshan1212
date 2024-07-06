@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at  [https://github.com/sudarshan1212](https://github.com/sudarshan1212)
 
-- 📫 How to reach me **sudarshansam12@outlook.com**
+- 📫 How to reach me **sudarshansam12@gmail.com**
 
 
 ###
