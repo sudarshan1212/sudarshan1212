@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at  [https://github.com/sudarshan1212](https://github.com/sudarshan1212)
-
 - 📫 How to reach me **sudarshansam12@gmail.com**
 - 👨‍💻My Website [https://sudarshan12.vercel.app/](https://sudarshan12.vercel.app/)
 
